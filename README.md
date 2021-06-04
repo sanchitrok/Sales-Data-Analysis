@@ -28,7 +28,7 @@ Findings: Time 11am and 7 pm approximately is most recommended time to advertise
 
 
 Question 4: What products are most often sold together?
-Findings: AAA Baateries, AA Batteries, Lightining Caharging Cables are most often sold products
+Findings: AAA Baateries, AA Batteries, Lightning Charging Cables are most often sold products
 
 ![image](https://user-images.githubusercontent.com/61126881/119439423-fc391a00-bce7-11eb-9300-cd17a5ae1c18.png)
 
